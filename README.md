@@ -18,17 +18,17 @@
 ![04- Put Book](img/L04/04-PutBook.png)
 
 ### 5. Delete Book
-![05- Delete Book](img/L04/05-DeleteBook.png)<br>
+![05- Delete Book](img/L04/05-DeleteBook.png)<br><br>
 
 # **_Latihan 05 - Menampilkan tampilan GUI dengan data yang sudah di-input di Postman_**
-![01- Tampilan GUI dan Postman](img/L05/GUI.png)<br>
+![01- Tampilan GUI dan Postman](img/L05/GUI.png)<br><br>
 
 # **_Latihan 06 - Menguji tombol Refresh_**
 ### 1. Get Book - Sebelum meng-input data
 ![01-Get Book](img/L06/01-Get-SebelumPost.png)
 
 ### 2. Get Book - Setelah meng-input data dan melakukan Refresh di-GUI
-![01-Get Book-After Post](img/L06/02-GUI-SesudahPostdanRefresh.png)<br>
+![01-Get Book-After Post](img/L06/02-GUI-SesudahPostdanRefresh.png)<br><br>
 
 # **_Latihan 07 - Pengujian input data melalui GUI_**
 ### 1. Tampilan GUI - Sebelum meng-input data
@@ -43,7 +43,7 @@
 ![05-Postman After Post](img/L07/05-GetBooks.png)
 
 ### 4. Get Books - Setelah meng-input semua data melalui GUI
-![06-GUI dan Postman After Post](img/L07/06-GetBooks-SetelahSemuaDatadiInput.png)<br>
+![06-GUI dan Postman After Post](img/L07/06-GetBooks-SetelahSemuaDatadiInput.png)<br><br>
 
 # **_TUGAS - Menguji tombol Edit dan Delete_**
 ### 1. Tampilan GUI - Semua data telah di-input
