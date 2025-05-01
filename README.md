@@ -4,7 +4,7 @@
 **Mata Kuliah: Pemrograman Berorientasi Objek 2**<br>
 **Kelas: STI-A**<br><br>
 
-## **_Latihan 04 - Uji API Latihan 03_**
+# **_Latihan 04 - Uji API Latihan 03_**
 ### 1. Get Book
 ![01-Get Book](img/L04/01-GetBook.png)
 
@@ -18,19 +18,19 @@
 ![04- Put Book](img/L04/04-PutBook.png)
 
 ### 5. Delete Book
-![05- Delete Book](img/L04/05-DeleteBook.png)
+![05- Delete Book](img/L04/05-DeleteBook.png)<br>
 
-## **_Latihan 05 - Menampilkan tampilan GUI dengan data yang sudah di-input di Postman_**
-![01- Tampilan GUI dan Postman](img/L05/GUI.png)
+# **_Latihan 05 - Menampilkan tampilan GUI dengan data yang sudah di-input di Postman_**
+![01- Tampilan GUI dan Postman](img/L05/GUI.png)<br>
 
-## **_Latihan 06 - Menguji tombol Refresh_**
+# **_Latihan 06 - Menguji tombol Refresh_**
 ### 1. Get Book - Sebelum meng-input data
 ![01-Get Book](img/L06/01-Get-SebelumPost.png)
 
 ### 2. Get Book - Setelah meng-input data dan melakukan Refresh di-GUI
-![01-Get Book-After Post](img/L06/02-GUI-SesudahPostdanRefresh.png)
+![01-Get Book-After Post](img/L06/02-GUI-SesudahPostdanRefresh.png)<br>
 
-## **_Latihan 07 - Pengujian input data melalui GUI_**
+# **_Latihan 07 - Pengujian input data melalui GUI_**
 ### 1. Tampilan GUI - Sebelum meng-input data
 ![01-GUI before Post](img/L07/01-GUI-SebelumInputData.png)
 
@@ -43,9 +43,9 @@
 ![05-Postman After Post](img/L07/05-GetBooks.png)
 
 ### 4. Get Books - Setelah meng-input semua data melalui GUI
-![06-GUI dan Postman After Post](img/L07/06-GetBooks-SetelahSemuaDatadiInput.png)
+![06-GUI dan Postman After Post](img/L07/06-GetBooks-SetelahSemuaDatadiInput.png)<br>
 
-## **_TUGAS - Menguji tombol Edit dan Delete_**
+# **_TUGAS - Menguji tombol Edit dan Delete_**
 ### 1. Tampilan GUI - Semua data telah di-input
 ![01-GUI After Posts](img/Tugas/01-GUI.png)
 
