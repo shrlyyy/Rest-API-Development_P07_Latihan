@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "a540c0bc-79f5-4668-98a8-9eafe4c2c47d",
+		"name": "P07-Latihan07 - Java Rest API",
+		"description": "Menguji tombol Add melalui GUI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169456",
+		"_collection_link": "https://sherlyagnesya.postman.co/workspace/d4294581-e272-454b-8991-dbeaaefdc424/collection/44169456-a540c0bc-79f5-4668-98a8-9eafe4c2c47d?action=share&source=collection_link&creator=44169456"
+	},
+	"item": [
+		{
+			"name": "Get Books (yang sudah di-input)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Book (cek refresh)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Belajar REST API\", \"author\": \"Wannandy\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Books (setelah input semua data)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

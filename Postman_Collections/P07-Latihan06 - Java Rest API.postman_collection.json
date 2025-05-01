@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "5b35a537-a068-4909-94cb-f74a6ee8de8a",
+		"name": "P07-Latihan06 - Java Rest API",
+		"description": "Input data untuk tes button refresh",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169456",
+		"_collection_link": "https://sherlyagnesya.postman.co/workspace/d4294581-e272-454b-8991-dbeaaefdc424/collection/44169456-5b35a537-a068-4909-94cb-f74a6ee8de8a?action=share&source=collection_link&creator=44169456"
+	},
+	"item": [
+		{
+			"name": "Get Books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Book",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Java\", \"author\": \"Jennie\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
