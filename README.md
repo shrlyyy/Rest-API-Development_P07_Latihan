@@ -45,3 +45,30 @@
 ### 4. Get Books - Setelah meng-input semua data melalui GUI
 ![06-GUI dan Postman After Post](img/L07/06-GetBooks-SetelahSemuaDatadiInput.png)
 
+## **_TUGAS - Menguji tombol Edit dan Delete_**
+### 1. Tampilan GUI - Semua data telah di-input
+![01-GUI After Posts](img/Tugas/01-GUI.png)
+
+### 2. Get Books - Semua data telah di-input
+![02-Get Books](img/Tugas/02-GetBooks-Postman.png)
+
+### 3. Select Row - Ketika memilih data yang ingin di-edit, maka data akan tampil di-textfield dan button akan berubah
+![03-Select Row](img/Tugas/03-SelectRow-Edit.png)
+
+### 4. Edit Book - Mengedit data dan menekan tombol Edit untuk menyimpan perubahan
+![04-Edit Data](img/Tugas/04-EditData-TekanEditButton.png)
+
+### 5. Tampilan GUI Setelah Edit Book
+![05-Gui After Edit](img/Tugas/05-GUI-SetelahEdit.png)
+
+### 6. Get Book 2 - Setelah meng-edit data melalui GUI
+![06-Get Book 2 After Edit](img/Tugas/06-Postman-SetelahEdit.png)
+
+### 7. Delete Book - Memilih data yang ingin di-delete dan menekan tombol delete, kemudian tombol konfirmasi.
+![07-Delete Book](img/Tugas/07-DeleteData-Konfirmasi.png)
+
+### 8. Tampilan GUI Setelah Delete Book
+![08-Gui After Delete](img/Tugas/08-GUI-SetelahDelete.png)
+
+### 9. Get Books - Setelah meng-delete data melalui GUI
+![09-Get Books After Delete](img/Tugas/09-Postman-SetelahDelete.png)
